@@ -10,5 +10,9 @@
 			<li> html </li>
 		</ol>
 		<h2> welcome </h2>
+		<?php
+mysqli_connect("https://kdheejb7.github.io/web1/", "root", "3768086z", "suppliers_parts_projects");
+
+?>
 	</body>
 </html>
